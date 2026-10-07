@@ -89,3 +89,14 @@ Submission is only the following three things:
 - [] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
 - [] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
 - [] The Chat/LLM used page link, with the complete chat history
+
+
+
+## Submission
+
+### Gameplay Videos
+- [Before changes](videos/before%20changes.mp4)
+- [After changes](videos/after%20changes.mp4)
+
+### LLM / ChatGPT Conversation
+[Complete ChatGPT conversation](https://chatgpt.com/share/6ac5de61-ddcc-83e8-b082-8af2b6aba0c4)
